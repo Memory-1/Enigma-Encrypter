@@ -1,0 +1,6 @@
+Some key aspects of this program
+
+* It will sanitize all input to lowercase.
+* If there are non [a-z] characters, it will return the character and increase the shift
+This is important that the shift increases, so if it is not the same message, it will not get the same output
+* There is a check to see if any of the wheel settings are invalid
